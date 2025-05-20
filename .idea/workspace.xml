@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7675dd59-2cb1-4600-933f-64a64851b3c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/exceptions/PasswordChecker.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/exceptions/PasswordChecker.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/firstclass/Drop.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/firstclass/Drop.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/functions/EmojifyText.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/functions/EmojifyText.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/purity/EitherPureOrNot.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/purity/EitherPureOrNot.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/purity/Impure2Pure.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/purity/Impure2Pure.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/recursion/NonTail2TailRecursion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/recursion/NonTail2TailRecursion.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +23,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2xMJDUdR4EdsBkqWaW7gp8nDZGu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,7 +36,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "working-branch",
     "last_opened_file_path": "/Users/lwstudent/Desktop/fp-workshop-2019"
   }
 }]]></component>
