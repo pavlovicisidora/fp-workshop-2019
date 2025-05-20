@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7675dd59-2cb1-4600-933f-64a64851b3c9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/exceptions/PasswordChecker.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/exceptions/PasswordChecker.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/firstclass/Drop.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/firstclass/Drop.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/functions/EmojifyText.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/functions/EmojifyText.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/purity/EitherPureOrNot.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/purity/EitherPureOrNot.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/purity/Impure2Pure.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/purity/Impure2Pure.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/recursion/NonTail2TailRecursion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/io/lambdaworks/workshop/recursion/NonTail2TailRecursion.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2xMJDUdR4EdsBkqWaW7gp8nDZGu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/lwstudent/Desktop/fp-workshop-2019"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="fp-workshop-2019_5862" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="fp-workshop-2019_5862" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="migrateConfigurationsNotificationShown" value="true" />
+  </component>
+  <component name="ShouldUpdateRunConfigurations">
+    <option name="isDowngrading" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7675dd59-2cb1-4600-933f-64a64851b3c9" name="Changes" comment="" />
+      <created>1747741889900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747741889900</updated>
+    </task>
+    <servers />
+  </component>
+</project>

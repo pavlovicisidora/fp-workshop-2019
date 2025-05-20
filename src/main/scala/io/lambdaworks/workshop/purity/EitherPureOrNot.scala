@@ -11,11 +11,13 @@ object EitherPureOrNot {
   private val builder  = new StringBuilder()
 
   // Either pure or not?
-
+  //impure
   def addTodo(todo: Todo): Unit = todoList :+= todo
 
+  //impure
   def currentDate: DateTime = DateTime.now
 
+  //pure
   def evenNumbers(lowerBound: Int, upperBound: Int): Seq[Int] = {
     var result = Seq[Int]()
     for (index <- lowerBound to upperBound) {
@@ -25,6 +27,7 @@ object EitherPureOrNot {
     result
   }
 
+  //impure
   def firstElement(todoList: List[Todo]): Todo = {
     val head = todoList.head
     println(head)
@@ -32,12 +35,14 @@ object EitherPureOrNot {
     head
   }
 
+  //impure
   def fullName(firstName: String, lastName: String): String = {
     builder.append(firstName)
     builder.append(lastName)
     builder.mkString(" ")
   }
 
+  //impure
   def square4j(numbers: JList[Int]): JList[Int] = {
     for (index <- 0 until numbers.size()) {
       val number = numbers.get(index)
@@ -47,6 +52,7 @@ object EitherPureOrNot {
     numbers
   }
 
+  //pure
   def square4s(numbers: Seq[Int]): Seq[Int] = {
     var result = numbers
     for (index <- numbers.indices) {
